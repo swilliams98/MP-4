@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b7813a5-366b-4c11-87c3-5bea57aaf051" name="Changes" comment="" />
+    <list default="true" id="6b7813a5-366b-4c11-87c3-5bea57aaf051" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mp-4/app/components/Cats.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-4/app/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-4/app/components/Main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp-4/app/interfaces/Cats.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mp-4/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/mp-4/app/page.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,9 +37,15 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/serenitywilliams/Documents/BU/CS391/MP-4/mp-4/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,7 +61,9 @@
       <option name="presentableId" value="Default" />
       <updated>1774227608345</updated>
       <workItem from="1774227609547" duration="277000" />
-      <workItem from="1774227914862" duration="307000" />
+      <workItem from="1774227914862" duration="6195000" />
+      <workItem from="1774234578491" duration="135000" />
+      <workItem from="1774234720179" duration="1109000" />
     </task>
     <servers />
   </component>
